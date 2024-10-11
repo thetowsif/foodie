@@ -1,14 +1,13 @@
-import React from 'react'
-import Navbar from './Navbar'
-import BannerBackground from '../Assets/Banner-Background.png'
-import BannerImage from '../Assets/Home-Banner-Food-Image.png'
+import React from 'react';
+import Navbar from './Navbar';
+import BannerBackground from '../Assets/Banner-Background.png';
+import BannerImage from '../Assets/Home-Banner-Food-Image.png';
 import { FiArrowRight } from "react-icons/fi";
-import About from './About'
+import About from './About';
 import Work from './Work';
 import Testimonials from './Testimonials';
 import Contact from './Contact';
-import Footer from '../Components/Footer'
-
+import Footer from '../Components/Footer';
 
 const Home = () => {
   return (
